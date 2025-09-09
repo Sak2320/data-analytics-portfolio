@@ -36,6 +36,6 @@ I am an aspiring **Business Analyst** with a background in **Pharmacy** and a st
 
 ## 📬 Let's Connect
 - **LinkedIn**:https://www.linkedin.com/in/sakshi-business-analytics/
-- **GitHub**: https://github.com/Sak2320/business-analytics-portfolio
+- **GitHub**: https://github.com/Sak2320/data-analytics-portfolio
 - **Email**: sakshikamble643@gmail.com
 
