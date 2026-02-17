@@ -1,4 +1,4 @@
-# 📊 Business Analytics Portfolio
+# 📊 Data Analytics Portfolio
 
 Welcome to my Business Analytics Portfolio! I’m currently pursuing an MBA in Business Analytics, and this repository showcases the practical projects I’ve completed using tools such as Power BI, Tableau, and Excel. Each project is designed to solve real-world business problems through data-driven insights and visual storytelling.
 
