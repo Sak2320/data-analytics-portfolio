@@ -31,9 +31,8 @@ The objective of this project is to identify **energy production trends, install
 
 - Power BI  
 - Microsoft Excel  
-- SQL  
-- Python (Pandas, NumPy)  
-
+   
+  
 ---
 
 ## 📂 Dataset
